@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "typescript": "^5.5.4"
+  },
+  "name": "git-exercises",
+  "version": "0.0.1",
+  "main": "./dist/index.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "build" : "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
